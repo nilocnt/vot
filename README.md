@@ -85,6 +85,7 @@ Feature :
 * topjohnwu / Magisk - Magisk Module Template.
 * Ilhan-athn7 - For the build script turnip.
 * reljawa - For the build script renderer vulkan.
+* EmperorEye1993 - For the build script GPU Turbo Booster
 * nilocnt - Maker of this module.
   
 ========================================================================================
