@@ -4,4 +4,4 @@ version=1.0
 versionCode=1
 author=nilocnt Github
 description=Get better rendering by change the renderer to vulkan turnip.
-updateJson=https://raw.githubusercontent.com/nilocnt/vot/master/module.json
+updateJson=https://github.com/nilocnt/vot/blob/main/module.json
