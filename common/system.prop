@@ -1,5 +1,5 @@
 #!bin/bash
-#Tw
+#Vulkan
 
 debug.hwui.renderer=vulkan
 debug.renderengine.backend=vulkan
