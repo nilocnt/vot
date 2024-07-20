@@ -5,10 +5,10 @@ Vulkan Optimization Turnip.
 
 # Main Features
 
-* Boosted GPU.
-* GPU Render Engine.
-* Render Tweaks for spes.
-* Increse performance in spes.
+* Boosted Vulkan.
+* Vulkan Render Engine.
+* Render Tweaks for Vulkan.
+* Increse performance in Vulkan.
 
 ========================================================================================
 
@@ -34,7 +34,7 @@ Vulkan Optimization Turnip.
 Feature :
 
 * Freeadreno Turnip weekly release (20240617)! 'THX MrMiy4mo & @NotZeetaa'.
-* change renderer to vulkan
+* renderer to vulkan
 * disable debug logging
 * disable gpu trace
 * disable other logs
@@ -45,7 +45,7 @@ Feature :
 Feature :
 
 * Added Freeadreno Turnip weekly release (20240617)! 'THX MrMiy4mo & @NotZeetaa'.
-* change renderer to vulkan
+* add renderer to vulkan
 * disable debug logging
 * disable gpu trace
 
