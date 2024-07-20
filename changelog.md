@@ -5,7 +5,10 @@
 
 Feature :
 
--Freeadreno Turnip weekly release!
+-Freeadreno Turnip (20240617)!
+
 -change renderer to vulkan
+
 -disable debug logging
+
 -disable gpu trace
