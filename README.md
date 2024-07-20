@@ -54,8 +54,8 @@ Feature :
 # Credits
 
 * topjohnwu / Magisk - Magisk Module Template.
-* Ilhan-athn7 - For the build script.
-* reljawa - others build script.
+* Ilhan-athn7 - For the build script turnip.
+* reljawa - For the build script renderer vulkan.
 * nilocnt - Maker of this module.
   
 ========================================================================================
