@@ -35,7 +35,7 @@ Vulkan Optimization Turnip. This module aims to increase Qualcomm Snapdragon pow
 
 Feature :
 
-* Freeadreno Turnip weekly release (20240617)! 'THX MrMiy4mo & @NotZeetaa'.
+* Freeadreno Turnip weekly release (20240617)! 'THX MrMiy4mo & NotZeetaa'.
 * Renderer to vulkan
 * Disable debug logging
 * Disable gpu trace
@@ -50,7 +50,7 @@ Feature :
 
 Feature :
 
-- Freeadreno Turnip (20240617)!
+- Freeadreno Turnip weekly release (20240617)! 'THX MrMiy4mo & NotZeetaa'.
 - Renderer to vulkan
 - Disable debug logging
 - Disable gpu trace
@@ -73,7 +73,7 @@ Feature :
 
 Feature :
 
-* Added Freeadreno Turnip weekly release (20240617)! 'THX MrMiy4mo & @NotZeetaa'.
+* Added Freeadreno Turnip weekly release (20240617)! 'THX MrMiy4mo & NotZeetaa'.
 * add renderer to vulkan
 * disable debug logging
 * disable gpu trace
@@ -91,7 +91,7 @@ Feature :
 
 # Donations
 
-* @NotZeetaa: https://notzeetaa.github.io/Donate-NotZeetaa/
+* NotZeetaa: https://notzeetaa.github.io/Donate-NotZeetaa/
 * EmperorEye1993: https://www.paypal.me/EmperorEye1993
   
 ========================================================================================
